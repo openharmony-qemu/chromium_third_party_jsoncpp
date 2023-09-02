@@ -1,0 +1,10 @@
+[
+    {
+        "Name": "chromium_third_party_jsoncpp",                   # 上游开源软件名全称
+        "License":         # 上游开源软件中包含的许可证信息
+        "License File": "LICENSE"      # 许可证所在文件路径
+        "Version Number": "9059f5cad030ba11d37818847443a53918c327b1",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/open-source-parsers/jsoncpp.git@9059f5cad030ba11d37818847443a53918c327b1",   # 上游软件包发布地址
+        "Description": "jsoncpp库"           # 开源软件功能描述
+    }
+]
