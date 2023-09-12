@@ -1,6 +1,6 @@
 [
     {
-        "Name": "chromium_third_party_jsoncpp",                   # 上游开源软件名全称
+        "Name": "jsoncpp",                   # 上游开源软件名全称
         "License":"MIT"         # 上游开源软件中包含的许可证信息
         "License File": "LICENSE"      # 许可证所在文件路径
         "Version Number": "9059f5cad030ba11d37818847443a53918c327b1",
@@ -8,7 +8,7 @@
         "Description": "jsoncpp库"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_third_party_jsoncpp",                   # 上游开源软件名全称
+        "Name": "jsoncpp",                   # 上游开源软件名全称
         "License":"GPLStyleLicense"         # 上游开源软件中包含的许可证信息
         "License File": "LICENSE"      # 许可证所在文件路径
         "Version Number": "9059f5cad030ba11d37818847443a53918c327b1",
