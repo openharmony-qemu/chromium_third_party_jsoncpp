@@ -1,7 +1,7 @@
 [
     {
         "Name": "jsoncpp",
-        "License":"Unknown License file reference",
+        "License":"MIT",
         "License File": "LICENSE",
         "Version Number": "9059f5cad030ba11d37818847443a53918c327b1",
         "Owner": "huangjiewen2@huawei.com",
