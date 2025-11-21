@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "jsoncpp",
+        "License":"Unknown License file reference",
+        "License File": "LICENSE",
+        "Version Number": "42e892d96e47b1f6e29844cc705e148ec4856448",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/open-source-parsers/jsoncpp.git@42e892d96e47b1f6e29844cc705e148ec4856448",
+        "Description": "jsoncpp库"
+    }
+]
